@@ -1,0 +1,38 @@
+exports[`Thumbnail renders correctly 1`] = `
+<div
+  className="ui card"
+  href={undefined}
+  onClick={[Function]}>
+  <img
+    alt={undefined}
+    className="ui image"
+    height={undefined}
+    src="http://placehold.it/150/30ac17"
+    width={undefined} />
+  <div
+    className="content">
+    <div
+      className="header">
+      accusamus beatae ad facilis cum similique qui sunt
+    </div>
+    <div
+      className="meta">
+      Album 
+      1
+    </div>
+  </div>
+  <div
+    className="extra content">
+    <button
+      className="ui green basic button"
+      onClick={[Function]}
+      tabIndex={undefined}>
+      <a
+        onClick={[Function]}
+        style={Object {}}>
+         View Image 
+      </a>
+    </button>
+  </div>
+</div>
+`;

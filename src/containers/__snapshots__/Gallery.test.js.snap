@@ -1,0 +1,121 @@
+exports[`Gallery renders correctly whe Loading 1`] = `null`;
+
+exports[`Gallery renders correctly with Thumbnails 1`] = `
+<div
+  className="ui cards">
+  <div
+    className="ui card"
+    href={undefined}
+    onClick={[Function]}>
+    <img
+      alt={undefined}
+      className="ui image"
+      height={undefined}
+      src="http://placehold.it/150/30ac17"
+      width={undefined} />
+    <div
+      className="content">
+      <div
+        className="header">
+        accusamus beatae ad facilis cum similique qui sunt
+      </div>
+      <div
+        className="meta">
+        Album 
+        1
+      </div>
+    </div>
+    <div
+      className="extra content">
+      <button
+        className="ui green basic button"
+        onClick={[Function]}
+        tabIndex={undefined}>
+        <a
+          onClick={[Function]}
+          style={Object {}}>
+           View Image 
+        </a>
+      </button>
+    </div>
+  </div>
+  <div
+    className="ui card"
+    href={undefined}
+    onClick={[Function]}>
+    <img
+      alt={undefined}
+      className="ui image"
+      height={undefined}
+      src="http://placehold.it/150/dff9f6"
+      width={undefined} />
+    <div
+      className="content">
+      <div
+        className="header">
+        reprehenderit est deserunt velit ipsam
+      </div>
+      <div
+        className="meta">
+        Album 
+        1
+      </div>
+    </div>
+    <div
+      className="extra content">
+      <button
+        className="ui green basic button"
+        onClick={[Function]}
+        tabIndex={undefined}>
+        <a
+          onClick={[Function]}
+          style={Object {}}>
+           View Image 
+        </a>
+      </button>
+    </div>
+  </div>
+  <div
+    className="ui card"
+    href={undefined}
+    onClick={[Function]}>
+    <img
+      alt={undefined}
+      className="ui image"
+      height={undefined}
+      src="http://placehold.it/150/1941e9"
+      width={undefined} />
+    <div
+      className="content">
+      <div
+        className="header">
+        officia porro iure quia iusto qui ipsa ut modi
+      </div>
+      <div
+        className="meta">
+        Album 
+        1
+      </div>
+    </div>
+    <div
+      className="extra content">
+      <button
+        className="ui green basic button"
+        onClick={[Function]}
+        tabIndex={undefined}>
+        <a
+          onClick={[Function]}
+          style={Object {}}>
+           View Image 
+        </a>
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Gallery should display error correctly 1`] = `
+<div>
+  An error occured
+</div>
+`;

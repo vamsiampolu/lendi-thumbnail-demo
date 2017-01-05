@@ -1,0 +1,37 @@
+exports[`SimpleAlbumMenu renders correctly when albumItems do not exist 1`] = `null`;
+
+exports[`SimpleAlbumMenu renders correctly when albumItems exist 1`] = `
+<div
+  className="ui pointing vertical menu">
+  <div
+    className="item"
+    onClick={[Function]}>
+    <a
+      onClick={[Function]}
+      style={Object {}}>
+      Album 
+      1
+    </a>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <a
+      onClick={[Function]}
+      style={Object {}}>
+      Album 
+      2
+    </a>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <a
+      onClick={[Function]}
+      style={Object {}}>
+      Album 
+      3
+    </a>
+  </div>
+</div>
+`;
